@@ -34,3 +34,13 @@
 *.vcxproj
 *.vcxproj.filters
 *.vcxproj.user
+
+# Ignore large/unwanted assets and backups
+*.zip
+*.pdf
+*.mp4
+~$*
+Gemini_Generated_Image*
+*.docx
+*.jpg
+*.jpeg
