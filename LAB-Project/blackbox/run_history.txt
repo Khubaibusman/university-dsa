@@ -1,0 +1,8 @@
+Run #1 [2026-06-12 09:03:09]  Fuel=16.5km/L  Brake=33763km  Maint=0d  Eng=36.6/100  Alerts: MAINT ENGINE
+Run #2 [2026-06-12 14:03:05]  Fuel=15.5km/L  Brake=33455km  Maint=0d  Eng=9.3/100  Alerts: MAINT ENGINE
+Run #3 [2026-06-12 14:05:30]  Fuel=12.7km/L  Brake=24170km  Maint=26d  Eng=28.2/100  Alerts: FUEL ENGINE
+Run #4 [2026-06-12 14:17:38]  Fuel=10.5km/L  Brake=24073km  Maint=40d  Eng=47.8/100  Alerts: FUEL 
+Run #5 [2026-06-12 14:21:31]  Fuel=13.8km/L  Brake=32313km  Maint=40d  Eng=64.3/100  Alerts: 
+Run #6 [2026-06-12 14:21:44]  Fuel=15.4km/L  Brake=26898km  Maint=0d  Eng=37.9/100  Alerts: MAINT 
+Run #7 [2026-06-12 15:49:01]  Fuel=12.9km/L  Brake=23996km  Maint=9d  Eng=46.8/100  Alerts: MAINT 
+Run #8 [2026-06-12 16:01:44]  Fuel=15.6km/L  Brake=30681km  Maint=31d  Eng=34.9/100  Alerts: ENGINE
