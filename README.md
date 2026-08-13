@@ -9,10 +9,15 @@
 This repository contains my coursework, lab projects, and assignments for **Data Structures & Algorithms**. It proves my ability to write optimized code and choose the right data structure for complex problems.
 
 ## 📂 Structure
-- BST/: Binary Search Tree implementations.
-- Recursion/: Recursive algorithmic problem solving.
-- ssignment-2/ & ssignment-3/: Queues, Stacks, Linked Lists, and sorting algorithms.
-- LAB-Project/: Blackbox testing models and complex DSA applications.
+- stack/ — templated Stack<DataType> class with overflow/underflow handling
+- data-structures/ — core data structure practice (arrays, lists, etc.)
+- misc-assignments/ — circular queue implementation + written design explanation
+- BST/ — Binary Search Tree implementations
+- Recursion/ — recursive algorithmic problem solving
+- ssignment-2/ & ssignment-3/ — queues, sorting, linked list problems
+- CP1/ — debugging exercise (buggy vs. fixed version, see [CP1/README.md](CP1/README.md))
+- LAB-Project/ — a small model-training/inference system (see [LAB-Project/README.md](LAB-Project/README.md))
+- inal-prep/ — exam prep problems
 
 ## 🛠️ Concepts Covered
 - Big-O Notation & Time/Space Complexity
@@ -21,3 +26,4 @@ This repository contains my coursework, lab projects, and assignments for **Data
 - Trees (BST, AVL, Heaps)
 - Graphs (BFS, DFS)
 - Sorting & Searching Algorithms
+
